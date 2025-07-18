@@ -7,9 +7,8 @@
 
   
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@tuusuario)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FFA116?style=flat&logo=maildotru&logoColor=white)](urltunewsletter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-alejandro-villarados-flores-40b09b370/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)]([https://medium.com/@tuusuario](https://medium.com/@saul.villarados))
 <!--
 **saul-villarados/saul-villarados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
