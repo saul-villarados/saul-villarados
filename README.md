@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi, I'm Saul 👋
 
+- 🐍 While my main stack is Python, SQL, AWS, PyTorch, TensorFlow, and Airflow, I'm always eager to explore and learn other technologies.
+- 🤖 My core work involves developing Gen AI solutions for content understanding, building forecasting models, and advancing MLOps/infrastructure.
+- 📝 Through my new [**Medium blog**](https://medium.com/@tuusuario), I share insights on data science, machine learning, productivity, and personal development.
+- 👨‍💻 While I actively develop new projects daily, limits on sharing work-related code exist. Thus, my public repositories reflect smaller-scale or earlier explorations.
+
+  
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@tuusuario)
+[![Newsletter](https://img.shields.io/badge/Newsletter-FFA116?style=flat&logo=maildotru&logoColor=white)](urltunewsletter)
 <!--
 **saul-villarados/saul-villarados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
