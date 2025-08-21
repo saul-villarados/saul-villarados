@@ -2,13 +2,13 @@
 
 - 🐍 While my main stack is Python, SQL, DVC, PyTorch, TensorFlow, and CI/CD, I'm always eager to explore and learn other technologies.
 - 🤖 My core work involves developing Gen AI solutions for content understanding, building forecasting models, and advancing MLOps/infrastructure.
-- 📝 Through my new [**Medium blog**](https://medium.com/@tuusuario), I share insights on data science, machine learning, productivity, and personal development.
+- 📝 Through my new [**Medium blog**]([https://medium.com/@tuusuario](https://medium.com/@saul.villarados)), I share insights on data science, machine learning, productivity, and personal development.
 - 👨‍💻 While I actively develop new projects daily, limits on sharing work-related code exist. Thus, my public repositories reflect smaller-scale or earlier explorations.
 
   
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-alejandro-villarados-flores-40b09b370/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)]([https://medium.com/@tuusuario](https://medium.com/@saul.villarados))
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@saul.villarados)
 <!--
 **saul-villarados/saul-villarados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
